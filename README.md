@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A simple feature-flags code for a Pixelmatters <a href="https://www.pixelmatters.com/blog/feature-toggle-a-hands-on-guide-to-start-using-it" target="_blank">blog article</a>.
+  A simple feature-flags code for iOS, made to a Pixelmatters <a href="https://www.pixelmatters.com/blog/feature-toggle-a-hands-on-guide-to-start-using-it" target="_blank">blog article</a>.
 </h3>
 
 <p align="center">
