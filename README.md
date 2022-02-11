@@ -19,6 +19,20 @@ Feature toggles are one of the most relevant mechanisms used to modify features 
   </a>
 </p>
 
+## 🚀 Get Up and Running
+
+First of all, you must add the [Firebase](https://firebase.google.com/docs/ios/setup) to your project and download the GoogleService-Info.plist to obtain your Firebase Apple platforms config file, without this step you will not be able to use the simple feature-flags code for iOS.
+
+### Firebase Remote Config
+
+The Remote Config allows you to change the behavior and appearance of your app without publishing an app update.
+
+[![Remote Config](https://img.youtube.com/vi/_CXXVFPO6f0/0.jpg)](https://www.youtube.com/watch?v=_CXXVFPO6f0)
+
+The next step is to configure on Firebase the keys that you would like to take control of remotely. There are some rules and conditions to configure the keys correctly that can be verified on [Remote Config Parameters and Conditions](https://firebase.google.com/docs/remote-config/parameters).
+
+Considering that everything was set up correctly, you can import the simple feature-flags code for your project.
+
 ## 📝 License
 
 Licensed under the [MIT License](./LICENSE).
