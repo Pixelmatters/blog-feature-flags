@@ -1,3 +1,11 @@
+<p align="center">
+    <img width="80" src="./img/pixelmatters-logo.jpeg" />
+</p>
+
+<p align="center">
+    <img src="./img/pixelmatters-name.svg" />
+</p>
+
 <h1 align="center">
   Blog - Feature Flags
 </h1>
@@ -12,7 +20,7 @@ Feature toggles are one of the most relevant mechanisms used to modify features 
 
 <p align="center">
   <a href="https://github.com/Pixelmatters/blog-feature-flags/blob/main/LICENSE">
-    <img src="https://img.shields.io/npm/l/@pixelmatters/blog-feature-flags" alt="blog-feature-flags license." />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="blog-feature-flags license." />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=pixelmatters_">
     <img src="https://img.shields.io/twitter/follow/pixelmatters_.svg?label=Follow%20@pixelmatters_" alt="Follow @pixelmatters_" />
